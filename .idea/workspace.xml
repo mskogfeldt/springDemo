@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35c70668-0888-4151-a002-23e3915bef15" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1P6LCRECj2nmV9rfwmKIor5tS6U" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="se.maetsskogfeldt.dao" />
+      <recent name="se.maetsskogfeldt.domain" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/META-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountDaoHibernateImplTest.getAccountTest">
+    <configuration name="AccountDaoHibernateImplTest.addAccountToDatabaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.maetsskogfeldt.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.maetsskogfeldt.dao" />
+      <option name="MAIN_CLASS_NAME" value="se.maetsskogfeldt.dao.AccountDaoHibernateImplTest" />
+      <option name="METHOD_NAME" value="addAccountToDatabaseTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountDaoHibernateImplTest.getAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.maetsskogfeldt.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.maetsskogfeldt.dao" />
+      <option name="MAIN_CLASS_NAME" value="se.maetsskogfeldt.dao.AccountDaoHibernateImplTest" />
+      <option name="METHOD_NAME" value="getAccountTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountDaoMysqlImplTest.connectToDatabseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.maetsskogfeldt.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.maetsskogfeldt.dao" />
+      <option name="MAIN_CLASS_NAME" value="se.maetsskogfeldt.dao.AccountDaoMysqlImplTest" />
+      <option name="METHOD_NAME" value="connectToDatabseTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountDaoMysqlImplTest.createTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.maetsskogfeldt.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.maetsskogfeldt.dao" />
+      <option name="MAIN_CLASS_NAME" value="se.maetsskogfeldt.dao.AccountDaoMysqlImplTest" />
+      <option name="METHOD_NAME" value="createTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountDaoTest.createTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.maetsskogfeldt.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.maetsskogfeldt.dao" />
+      <option name="MAIN_CLASS_NAME" value="se.maetsskogfeldt.dao.AccountDaoTest" />
+      <option name="METHOD_NAME" value="createTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountDaoHibernateImplTest.getAccountTest" />
+        <item itemvalue="JUnit.AccountDaoHibernateImplTest.addAccountToDatabaseTest" />
+        <item itemvalue="JUnit.AccountDaoTest.createTest" />
+        <item itemvalue="JUnit.AccountDaoMysqlImplTest.createTest" />
+        <item itemvalue="JUnit.AccountDaoMysqlImplTest.connectToDatabseTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35c70668-0888-4151-a002-23e3915bef15" name="Default Changelist" comment="" />
+      <created>1561538177874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561538177874</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestSystemUnitTest_addAccountToDatabaseTest - 2019.07.05 at 12h 50m 09s.xml">
+      <configuration name="TestSystemUnitTest.addAccountToDatabaseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSystemUnitTest_addAccountToDatabaseTest - 2019.07.05 at 12h 55m 28s.xml">
+      <configuration name="TestSystemUnitTest.addAccountToDatabaseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSystemUnitTest_addAccountToDatabaseTest - 2019.07.05 at 12h 59m 19s.xml">
+      <configuration name="TestSystemUnitTest.addAccountToDatabaseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSystemUnitTest_addAccountToDatabaseTest - 2019.07.05 at 13h 00m 55s.xml">
+      <configuration name="TestSystemUnitTest.addAccountToDatabaseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSystemUnitTest_addAccountToDatabaseTest - 2019.07.05 at 13h 01m 58s.xml">
+      <configuration name="TestSystemUnitTest.addAccountToDatabaseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSystemUnitTest_addAccountToDatabaseTest - 2019.07.05 at 13h 03m 03s.xml">
+      <configuration name="TestSystemUnitTest.addAccountToDatabaseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountDaoHibernateImplTest_getAccountTest - 2019.07.05 at 16h 44m 00s.xml">
+      <configuration name="AccountDaoHibernateImplTest.getAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountDaoHibernateImplTest_getAccountTest - 2019.07.05 at 16h 45m 46s.xml">
+      <configuration name="AccountDaoHibernateImplTest.getAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountDaoHibernateImplTest_getAccountTest - 2019.07.05 at 16h 46m 16s.xml">
+      <configuration name="AccountDaoHibernateImplTest.getAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountDaoHibernateImplTest_getAccountTest - 2019.07.05 at 16h 46m 45s.xml">
+      <configuration name="AccountDaoHibernateImplTest.getAccountTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+</project>
